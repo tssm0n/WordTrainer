@@ -1,0 +1,7 @@
+<resources>
+
+	<string name="pref_header_general">General</string>
+    <string name="urlSetting">URL</string>
+    <string name="title_activity_settings">Settings</string>
+
+</resources>
