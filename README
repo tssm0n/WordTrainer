@@ -1,0 +1,2 @@
+WordTrainer is an Android application to teach children simple words and sentences.  A list is read from a file on a server, and the words are displayed one at a time in a random order.  Tapping the screen uses Android's text to speech to read the word.
+
